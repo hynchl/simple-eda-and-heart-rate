@@ -1,8 +1,12 @@
 # Simple Arduino Script for measure EDAand Heart Rate
 This is a simple Arduino Script for measure EDA a.k.a. GSR and Heart Pulse
 
+![image](/photo.jpg)
+- RED -> 5V
+- BLACK -> Ground
+- Bronw -> A0
+- Purple -> A1
 
-<!-- TODO: Add photo and schematic plan  -->
 
 # It Does
 - Send the value of EDA and Pulse via serial. 
@@ -15,6 +19,8 @@ This is a simple Arduino Script for measure EDA a.k.a. GSR and Heart Pulse
 512, 0\r\n
 512, 480\r\n
 ```
+
+
 
 - The value of EDA should converted to the human resistance. Check Below.
 
