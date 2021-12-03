@@ -1,4 +1,4 @@
-# Simple Arduino Script for measure EDAand Heart Rate
+# Simple Arduino Script for measure EDA and Heart Rate
 This is a simple Arduino Script for measure EDA a.k.a. GSR and Heart Pulse
 <!-- 
 ![image](/photo.jpg)
