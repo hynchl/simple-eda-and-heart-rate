@@ -24,8 +24,8 @@ This is a simple Arduino Script for measure EDA a.k.a. GSR and Heart Pulse
 
 - First number is message count.
 - Second number is number of milliseconds passed since the program started; `millis()`
-- First number is a GSR sensor value.
-- Second number is pulse count.
+- Third number is a GSR sensor value.
+- Fourth number is pulse count.
 - `*` is added to check the end of the message.
 
 
